@@ -18,7 +18,7 @@ h1 {
     position: relative;
     width: 100vw;
     height: 100vh;
-    background-image: url('pic/txs.jpg'); /* Your grid background here */
+    background-image: url('/pic/txs.jpg'); /* Your grid background here */
     background-size: cover;
     overflow: hidden;
 
@@ -38,7 +38,7 @@ h1 {
     cursor: grab;
     width: 200px;
     z-index: 1; /* Base z-index for all papers */
-    background-image: url('pic/grind_paper.jpg'); /* Add paper-like texture */
+    background-image: url('/pic/grind_paper.jpg'); /* Add paper-like texture */
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 8px;
